@@ -6,7 +6,7 @@ module.exports.ODA_WEBHOOK_SECRET = process.env.BOT_WEBHOOK_SECRET || 'mRLawCclQ
 exports.SMOOCH_APP_ID = process.env.SMOOCH_APP_ID || '5d0bad567d1721001080a32c';
 exports.SMOOCH_KEY_ID = process.env.SMOOCH_KEY_ID || 'app_5d0c8f4fdda1fb001059f7e3';
 exports.SMOOCH_SECRET = process.env.SMOOCH_SECRET || 'z2TNQSZWbeX2V-djytqqRhDOytWmDTGSk8k9zatgMEYvHa7mZbuVoVgmIErczrPw2_Q75mMWFNIhxxMCoYQHJw';
-exports.SMOOCH_WEBHOOK_SECRET = process.env.SMOOCH_WEBHOOK_SECRET || 'fxkq52PMf9sFKZ5T6Id3kxopfltALbnA_oTCoWy5QcEIwvgK-rIYO2yyoqOT142yB1X3yzlxc0n38WeBPEdkOg';
+exports.SMOOCH_WEBHOOK_SECRET = process.env.SMOOCH_WEBHOOK_SECRET || 'RbRLd616jn38LWqFBCDisI_G4NP0m6jwpbIk6xvChmkY6ZOoW6uwfAkAvwmm60Yoyv8GatKjNxHfXhwJfYJxhg';
 
 // General Details
 exports.PROXY = process.env.PROXY || process.env.http_proxy;
