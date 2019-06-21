@@ -4,9 +4,9 @@ module.exports.ODA_WEBHOOK_SECRET = process.env.BOT_WEBHOOK_SECRET || 'mRLawCclQ
 
 
 // Smooch Details
-exports.SMOOCH_APP_ID = process.env.SMOOCH_APP_ID || '5d0bad567d1721001080a32c';
-exports.SMOOCH_KEY_ID = process.env.SMOOCH_KEY_ID || 'app_5d0c8f4fdda1fb001059f7e3';
-exports.SMOOCH_SECRET = process.env.SMOOCH_SECRET || 'z2TNQSZWbeX2V-djytqqRhDOytWmDTGSk8k9zatgMEYvHa7mZbuVoVgmIErczrPw2_Q75mMWFNIhxxMCoYQHJw';
+exports.SMOOCH_APP_ID = process.env.SMOOCH_APP_ID || '5d0c850698d42a00105fd341';
+exports.SMOOCH_KEY_ID = process.env.SMOOCH_KEY_ID || 'app_5d0cb6eee7753c0010ecf19f';
+exports.SMOOCH_SECRET = process.env.SMOOCH_SECRET || 'f5_0XJvhaUGhfxD8ucieAOXwa71ryIbPUS2VPBOI2ptOFTyI-dz3ByeQaebB9kOkDeIf_HMnMF-3xNOdfbuj1w';
 exports.SMOOCH_WEBHOOK_SECRET = process.env.SMOOCH_WEBHOOK_SECRET || 'RbRLd616jn38LWqFBCDisI_G4NP0m6jwpbIk6xvChmkY6ZOoW6uwfAkAvwmm60Yoyv8GatKjNxHfXhwJfYJxhg';
 
 // General Details
