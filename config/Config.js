@@ -3,9 +3,9 @@ module.exports.ODA_WEBHOOK_URL = process.env.BOT_WEBHOOK_URL || 'https://botv2fr
 module.exports.ODA_WEBHOOK_SECRET = process.env.BOT_WEBHOOK_SECRET || 'mRLawCclQIckkIabNNrx0rbyfU1etfYx';
 
 // Smooch Details
-exports.SMOOCH_APP_ID = process.env.SMOOCH_APP_ID || '5cb03a22ac003b0010331337';
-exports.SMOOCH_KEY_ID = process.env.SMOOCH_KEY_ID || 'app_5cb03d1080314900108d8ee6';
-exports.SMOOCH_SECRET = process.env.SMOOCH_SECRET || 'jftbq3zRfRjR7fsEdpmIMZxOWUC0pbAJp2uGwNE4ZUL5OdkzlPX20aGKVm0LBtnVzxP277mfHZcGRDKAprprcg';
+exports.SMOOCH_APP_ID = process.env.SMOOCH_APP_ID || '5d0bad567d1721001080a32c';
+exports.SMOOCH_KEY_ID = process.env.SMOOCH_KEY_ID || 'app_5d0c8f4fdda1fb001059f7e3';
+exports.SMOOCH_SECRET = process.env.SMOOCH_SECRET || 'z2TNQSZWbeX2V-djytqqRhDOytWmDTGSk8k9zatgMEYvHa7mZbuVoVgmIErczrPw2_Q75mMWFNIhxxMCoYQHJw';
 exports.SMOOCH_WEBHOOK_SECRET = process.env.SMOOCH_WEBHOOK_SECRET || 'fxkq52PMf9sFKZ5T6Id3kxopfltALbnA_oTCoWy5QcEIwvgK-rIYO2yyoqOT142yB1X3yzlxc0n38WeBPEdkOg';
 
 // General Details
